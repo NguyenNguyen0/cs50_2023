@@ -1,0 +1,23 @@
+sort1 uses: bubble sort
+
+How do you know?:
+    random50000.txt
+    real    0m7,387s
+    user    0m6,699s
+    sys     0m0,195s
+
+sort2 uses: merge sort
+
+How do you know?:
+    random50000.txt
+    real    0m0,536s
+    user    0m0,043s
+    sys     0m0,147s
+
+sort3 uses: selection sort 
+
+How do you know?:
+    random50000.txt
+    real    0m3,066s
+    user    0m2,525s
+    sys     0m0,152s

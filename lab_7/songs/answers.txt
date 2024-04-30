@@ -1,0 +1,4 @@
+- If songs.db contains the top 100 songs of one listener from 2018, I would looking at the
+average energy, valence, and danceability of a person’s top 100 songs from the past year.
+
+-
